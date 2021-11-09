@@ -1,6 +1,7 @@
 ﻿Emacs Emulation
 [Open source code forked from https://github.com/zbrad/EmacsKeys]
 
+09-Nov-2021 - v5.0: Upgraded to VS2022
 30-Aug-2019 - v4.0: New version for VS2017 and VS2019.
 30-Aug-2019 - v3.1: This version ending support for VS2017 and VS2019. New version being released for VS2017/19
 04-Jun-2019 - v3.0: Upgraded to also run on 2019 (Thanks Linus Almström)
