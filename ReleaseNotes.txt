@@ -1,6 +1,7 @@
 ﻿Emacs Emulation
 [Open source code forked from https://github.com/zbrad/EmacsKeys]
 
+19-Nov-2021 - v5.3: Generated new Name and GUID for Marketplace ID for VS2017/19 version.
 19-Nov-2021 - v5.2: Version limited to VS2019. New branch cut for VS2019 maintenance.
 30-Aug-2019 - v4.0: New version for VS2017 and VS2019.
 30-Aug-2019 - v3.1: This version ending support for VS2017 and VS2019. New version being released for VS2017/19
