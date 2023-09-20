@@ -14,7 +14,7 @@ namespace Microsoft.VisualStudio.Editor.EmacsEmulation.Commands
     /// 
     /// Keys: Tab
     /// </summary>
-    [EmacsCommand(VSConstants.VSStd2KCmdID.TAB, UndoName = "Indent")]
+    [EmacsCommand(EmacsCommandID.LineIndent, UndoName = "Indent")]
     internal class LineIndentCommand : EmacsCommand
     {
         internal override void Execute(EmacsCommandContext context)
